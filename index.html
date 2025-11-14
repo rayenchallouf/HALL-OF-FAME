@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elite Hackers Dashboard - Top Performers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>⚡ ELITE HACKERS DASHBOARD ⚡</h1>
+            <p>Top Performers & Rankings</p>
+        </div>
+
+        <div class="stats-bar" id="statsBar">
+            <!-- Stats will be inserted here -->
+        </div>
+
+        <div class="search-container">
+            <div class="search-box">
+                <input type="text" id="searchInput" class="search-input" placeholder="Search hackers...">
+            </div>
+            <div class="filter-buttons">
+                <div class="filter-group">
+                    <span class="filter-group-label">Level:</span>
+                    <button class="filter-btn" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="elite">Elite</button>
+                    <button class="filter-btn" data-filter="advanced">Advanced</button>
+                    <button class="filter-btn" data-filter="intermediate">Intermediate</button>
+                    <button class="filter-btn" data-filter="beginner">Beginner</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="podium-container">
+            <h2 class="podium-title">Top 3 Hackers</h2>
+            <div class="podium" id="podium">
+                <!-- Top 3 hackers will be inserted here -->
+            </div>
+        </div>
+
+        <div class="other-players">
+            <h2 class="other-players-title">Other Rankings</h2>
+            <div class="players-list" id="hackersList">
+                <!-- Other hackers will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <div class="credit">Created by Glitch</div>
+
+    <script src="script.js"></script>
+</body>
+</html>
