@@ -5,14 +5,14 @@
 //   firstBlood * 20 + machines * 10 + writeUps * 15 + writeUps_score
 // Level is automatically assigned based on rank: 1-5=Elite, 6-10=Advanced, 11-15=Intermediate, 16+=Beginner
 let hackers = [
-    { name: "Pl4gueZ", firstBlood: 2, machines: 3, writeUps: 3, writeUps_score: 70 },
-    { name: "br0ker", firstBlood: 1, machines: 3, writeUps: 3, writeUps_score: 70 },
+    { name: "Pl4gueZ", firstBlood: 2, machines: 4, writeUps: 4, writeUps_score: 90 },
+    { name: "br0ker", firstBlood: 1, machines: 4, writeUps: 4, writeUps_score: 10 },
     { name: "Jesser", firstBlood: 1, machines: 2, writeUps: 2, writeUps_score: 40 },
     { name: "Bilil", firstBlood: 0, machines: 1, writeUps: 1, writeUps_score: 10 },
     { name: "try hack jemmali", firstBlood: 0, machines: 1, writeUps: 1, writeUps_score: 8 },
-    { name: ".....", firstBlood: 0, machines: 0, writeUps: 0, writeUps_score: 0 },
-    { name: ".....", firstBlood: 0, machines: 0, writeUps: 0, writeUps_score: 0 },
-    { name: ".....", firstBlood: 0, machines: 0, writeUps: 0, writeUps_score: 0 },
+    { name: "koussay aydi", firstBlood: 1, machines: 1, writeUps: 1, writeUps_score: 30 },
+    { name: "53", firstBlood: 0, machines: 1, writeUps: 1, writeUps_score: 9 },
+    { name: "MaverickDeVacca", firstBlood: 0, machines: 1, writeUps: 1, writeUps_score: 7 },
     { name: ".....", firstBlood: 0, machines: 0, writeUps: 0, writeUps_score: 0 },
     { name: ".....", firstBlood: 0, machines: 0, writeUps: 0, writeUps_score: 0 },
     { name: ".....", firstBlood: 0, machines: 0, writeUps: 0, writeUps_score: 0 },
