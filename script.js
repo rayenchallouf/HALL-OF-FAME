@@ -5,8 +5,8 @@
 //   firstBlood * 20 + machines * 10 + writeUps * 15 + writeUps_score
 // Level is automatically assigned based on rank: 1-5=Elite, 6-10=Advanced, 11-15=Intermediate, 16+=Beginner
 let hackers = [
-    { name: "Pl4gueZ", firstBlood: 2, machines: 4, writeUps: 4, writeUps_score: 90 },
-    { name: "br0ker", firstBlood: 1, machines: 4, writeUps: 4, writeUps_score: 80 },
+    { name: "Pl4gueZ", firstBlood: 3, machines: 5, writeUps: 5, writeUps_score: 120 },
+    { name: "br0ker", firstBlood: 1, machines: 5, writeUps: 5, writeUps_score: 100 },
     { name: "Jesser", firstBlood: 1, machines: 2, writeUps: 2, writeUps_score: 40 },
     { name: "Bilil", firstBlood: 0, machines: 1, writeUps: 1, writeUps_score: 10 },
     { name: "try hack jemmali", firstBlood: 0, machines: 1, writeUps: 1, writeUps_score: 8 },
